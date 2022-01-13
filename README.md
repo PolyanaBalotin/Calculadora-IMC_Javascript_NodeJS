@@ -9,6 +9,9 @@ Apos o clone utilize **npm install** para instalar as dependencia e **npm start*
 ## Habilidades
 
 -HTML
+
 -CSS
+
 -JavaScript
+
 -NodeJS
